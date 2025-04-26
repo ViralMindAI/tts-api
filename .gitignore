@@ -1,1 +1,10 @@
+__pycache__/
+*.pyc
+instance/
+.env
+*.db
+*.sqlite3
+*.log
+*.pem
+*.json
 
